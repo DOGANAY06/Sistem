@@ -1,0 +1,7 @@
+print("Evlen Benimle")
+a=(input("Damadın Cevabı:"))
+b=(input("Gelinin Cevabı:"))
+if (a.lower()=="evet" and b.lower()=="evet"):
+    evprint("Evlenmelerinde Bir Sakınca Yok")
+else:
+    print("Evlenemezler")
